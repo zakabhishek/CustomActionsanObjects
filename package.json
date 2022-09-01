@@ -1,0 +1,20 @@
+{
+  "name": "static json server",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "json-server --watch ./db.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "json-server"
+  ]
+}
